@@ -1,16 +1,17 @@
-# romero-dark README
+# Romero dark README
 
-## Working with Markdown
+## Installing the Theme Extension
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+To use the Romero Dark theme, you need to install the theme extension. Follow these steps:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon on the left sidebar or by pressing `Ctrl+Shift+X`.
+3. Search for **"Romero Dark"** in the search bar.
+4. Click on the "Install" button next to the **"Romero Dark"** theme extension.
+5. Once the installation is complete, you can select the theme by clicking on the gear icon in the lower left corner of the editor and selecting "Romero Dark" from the list of available themes.
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Yusefturin.romero-dark&ssr=false#overview)
 
 **Enjoy!**
