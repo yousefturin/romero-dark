@@ -1,23 +1,16 @@
-# My Custom Theme
+# romero-dark README
 
-![Romero Dark Theme](assets/logo.png)
+## Working with Markdown
 
-This is a custom theme for Visual Studio Code, designed with a focus on readability and comfort for long coding sessions.
+You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-## Features
+* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
+* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
+* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-* A dark color scheme that's easy on the eyes.
-* Syntax highlighting for a wide range of programming languages.
+## For more information
 
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-## Installation
-
-1. Open the Extensions sidebar in VS Code. `View → Extensions`
-2. Search for 'My Custom Theme', and install it.
-3. After installation, select `Code → Preferences → Color Theme → Romero Dark Theme`.
-
-## Feedback
-
-If you have suggestions or issues, please open an issue on the [GitHub repository](https://github.com/yousefturin/romero-dark).
-
-**Enjoy coding with My Custom Theme!**
+**Enjoy!**
