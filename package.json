@@ -1,0 +1,21 @@
+{
+  "name": "romero-dark",
+  "displayName": "Romero Dark",
+  "description": "Romero Dark theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Romero Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Romero Dark-color-theme.json"
+      }
+    ]
+  }
+}
