@@ -2,12 +2,25 @@
   "name": "romero-dark",
   "displayName": "Romero Dark",
   "description": "Romero Dark theme!",
+  "publisher": "yusefturin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yousefturin/romero-dark"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "romero",
+    "romero dark",
+    "yusefturin",
+    "Romero Dark theme"
   ],
   "contributes": {
     "themes": [
