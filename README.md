@@ -1,4 +1,6 @@
 # Romero dark README
+![3121-01](https://github.com/yousefturin/romero-dark/assets/94796673/9db28dbf-1303-4537-877c-097f36665f8d)
+
 
 ## Installing the Theme Extension
 
