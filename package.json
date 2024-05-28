@@ -14,7 +14,6 @@
   "categories": [
     "Themes"
   ],
-  "icon": "assets/logo.png",
   "keywords": [
     "theme",
     "dark",
@@ -30,6 +29,9 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Romero Dark-color-theme.json"
       }
-    ]
+    ],
+    "icon": {
+      "path": "assets/logo.png"
+    }
   }
 }
