@@ -12,6 +12,11 @@ To use the Romero Dark theme, you need to install the theme extension. Follow th
 4. Click on the "Install" button next to the **"Romero Dark"** theme extension.
 5. Once the installation is complete, you can select the theme by clicking on the gear icon in the lower left corner of the editor and selecting "Romero Dark" from the list of available themes.
 
+## Screenshot
+Screebshoit of JavaScript React native framework
+![image](https://github.com/yousefturin/romero-dark/assets/94796673/22e92674-0878-4b0f-9c0a-6afc4928bebb)
+
+
 ## For more information
 
 * You can take a look at the change log [here](https://github.com/yousefturin/romero-dark/blob/master/CHANGELOG.md)
