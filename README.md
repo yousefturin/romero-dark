@@ -11,7 +11,6 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ## For more information
 
-* 
 * [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yusefturin.romero-dark&ssr=false#overview)
 
 **Enjoy!**
