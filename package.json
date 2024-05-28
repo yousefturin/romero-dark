@@ -30,8 +30,12 @@
         "path": "./themes/Romero Dark-color-theme.json"
       }
     ],
-    "icon": {
-      "path": "assets/logo.png"
-    }
+    "icon": "assets/logo.png",
+    "bugs": {
+        "url": "https://github.com/yousefturin/romero-dark/issues"
+    },
+    "homepage": "https://github.com/yousefturin/romero-dark/master/README.md",
+    "author": "Yusef Turin <yusefturin@gmail.com>",
+    "license": "MIT"
   }
 }
