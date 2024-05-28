@@ -14,6 +14,6 @@ To use the Romero Dark theme, you need to install the theme extension. Follow th
 
 ## For more information
 
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Yusefturin.romero-dark&ssr=false#overview)
+* You can take a look at the change log [here](https://github.com/yousefturin/romero-dark/blob/master/CHANGELOG.md)
 
 **Enjoy!**
