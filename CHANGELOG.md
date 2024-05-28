@@ -4,6 +4,6 @@ All notable changes to the "romero-dark" extension will be documented in this fi
 
 
 
-## [V0.1.X]
+## V0.1.X
 
 - Imporve JavaScript support
